@@ -3,7 +3,7 @@
 
 I have worked on several projects involving structured and unstructured datasets and undertaken many courses from data analysis to deep learning.
 Moreover, I have participated in a number of internships. Some projects I have worked on are displayed here on my github and other accomplishments can be viewed on my Linkedin. 
-I am actively seeking a full time remote data scientist job where i am utilize my tech stack.
+I am actively seeking a full time remote data scientist job where i can utilize my tech stack.
 
 ### Skills
 
