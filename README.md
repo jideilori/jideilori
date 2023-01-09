@@ -1,22 +1,22 @@
 ### Hi there 👋 My name is Oluwaseun Ilori AKA *Jide Ilori*. I am a data scientist who is passionate about computer vision.
 
 
-I have worked on several projects involving structured and unstructured datasets and undertaken many courses from data analysis to deep learning.
+I have worked on several projects involving structured and unstructured datasets and completed many courses from data analysis to deep learning.
 Moreover, I have participated in a number of internships. Some projects I have worked on are displayed here on my github and other accomplishments can be viewed on my Linkedin. 
 I am actively seeking a full time remote data scientist job where i can utilize my tech stack.
 
 ### Skills
 
 * Python
-* Data wrangling/analysis - pandas,numpy
-* Data vizualization - matplotlib,seaborn
-* Machine learning - scikit learn 
-* Deep learning - TensorFlow/Keras
-* Computer vision - OpenCV , Dlib, TensorFlow 
-* Webscraping - Beautiful soup, Scrapy
-* Api - Flask , FastApi
+* Data wrangling/analysis - Pandas |Numpy
+* Data vizualization - Matplotlib |Seaborn
+* Machine and Deep learning - scikit learn | TensorFlow/Keras
+* Computer vision - OpenCV | PIL | Dlib| TensorFlow 
+* Webscraping - Beautiful soup | Scrapy
+* Api - Flask |FastApi
+* Cloud - GCP (Vertex Ai) | Azure Machine learning Studio
 
-other technologies/frameworks i have worked with include MATLAB/Simulink, docker, MLFlow, SQL.
+other technologies/frameworks i have worked with include MATLAB/Simulink, Docker, MLFlow, SQL.
 
 Interested in collaborating on a data science project? Kindly reach out to me
 
