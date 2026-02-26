@@ -19,7 +19,7 @@ other technologies/frameworks i have worked with include MATLAB/Simulink, Docker
 
 Interested in collaborating on a machine learning project? Kindly reach out to me
 
-<a href="https://www.linkedin.com/in/oluwaseun-ilori/" target="blank"><img align="center" src="https://github.com/jideilori/jideilori/blob/main/socials/transparent-Linkedin-logo-icon.png" height="20"/> </a> <a href="https://twitter.com/jideilori" target="blank"><img align="center" src="https://github.com/jideilori/jideilori/blob/main/socials/twitter.png" height="20" />  </a> <a href=" mailto:jideilori77@gmail.com" target="blank"><img align="center" src="https://github.com/jideilori/jideilori/blob/main/socials/gmail_logo.png" height="20" /> </a> <a href="https://jideilori.medium.com/" target="blank"><img align="center" src="https://github.com/jideilori/jideilori/blob/main/socials/medium2.png" height="20" /></a>
+<a href="https://www.linkedin.com/in/oluwaseun-ilori/" target="blank"><img align="center" src="https://github.com/jideilori/jideilori/blob/main/socials/transparent-Linkedin-logo-icon.png" height="20"/> </a> <a href="https://twitter.com/_jideilori" target="blank"><img align="center" src="https://github.com/jideilori/jideilori/blob/main/socials/twitter.png" height="20" />  </a> <a href=" mailto:jideilori77@gmail.com" target="blank"><img align="center" src="https://github.com/jideilori/jideilori/blob/main/socials/gmail_logo.png" height="20" /> </a> <a href="https://jideilori.medium.com/" target="blank"><img align="center" src="https://github.com/jideilori/jideilori/blob/main/socials/medium2.png" height="20" /></a>
  
 
 <!--
